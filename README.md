@@ -2,6 +2,11 @@
 
 Python3 script for producing nicely formatted diffs of [XYZ files](https://en.wikipedia.org/wiki/XYZ_file_format).
 
+Use as
+```bash
+./xyz_diff.py <leftFile> <rightFile>
+```
+
 The script always diffs exactly two molecular geometries given as XYZ files. The output consists of as many lines as there are atoms in the diffed
 geometries. Each line consists of four parts:
 ```

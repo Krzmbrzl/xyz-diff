@@ -54,3 +54,9 @@ use for them.
 
 If you prefer a monochrome (no colors) output, use the `--monochrome` option.
 
+
+## Related projects
+
+In case you are actually looking for a way to quantify the difference of two XYZ structures in terms of a single number, you might want to have a look
+at https://github.com/charnley/rmsd instead.
+
